@@ -1,0 +1,7 @@
+# MayaCardio Edge Pipeline Dependencies
+requests>=2.28.0
+psutil>=5.9.0
+
+# Optional / Cloud Service Dependencies (for running cloud_server.py)
+fastapi>=0.100.0
+uvicorn>=0.22.0
